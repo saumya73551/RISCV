@@ -176,7 +176,7 @@ This exercise introduces the execution of a C program on a RISC-V processor desi
 
 ### RISC-V CPU Execution Flow Diagram
 
-![RISC-V CPU Execution Flow](./flow_digram_Cprograming%20to%20RISCV.png)
+![RISC-V CPU Execution Flow](<./flow_digram_Cprograming to RISCV.png>)
 
 
 ---
