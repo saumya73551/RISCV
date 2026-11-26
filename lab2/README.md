@@ -56,7 +56,7 @@ Sum of numbers from 1 to 9 is 45
 
 ### Screenshot
 
-![C Programming – Sum of Numbers](./c_programing_sum1to9.png)
+![C Programming – Sum of Numbers](./c%20progaraming_sum1to9.png)
 
 ---
 
@@ -109,7 +109,7 @@ loop:
 
 The flow diagram illustrates the conversion of the C program logic into RISC-V Assembly instructions.
 
-![C Program to Assembly Flow Diagram](./flow_diagram_Cprogram.png)
+![C Program to RISC-V Flow Diagram](./c%20progaraming_sum1to9.png)
 
 ### Assembly Code Screenshot
 
@@ -176,7 +176,8 @@ This exercise introduces the execution of a C program on a RISC-V processor desi
 
 ### RISC-V CPU Execution Flow Diagram
 
-![RISC-V CPU Execution Flow](./flow_diagram_Cprogram.png)
+![RISC-V CPU Execution Flow](./flow_digram_Cprograming%20to%20RISCV.png)
+
 
 ---
 
@@ -261,7 +262,7 @@ It defines how compiled software components communicate with each other.
 
 ### ABI Interface
 
-![Application Binary Interface](./intro/ABI_interface.png)
+![ABI Interface](./intro/ABI_interface.png)
 
 ---
 
@@ -294,7 +295,7 @@ Each register has an ABI name and a specific conventional purpose.
 
 ### Register Calling Convention Screenshot
 
-![RISC-V Register Calling Convention](./intro/instruction_call_register.png)
+![Register Calling Convention](./intro/instruction_call_register.png)
 
 ---
 
